@@ -27,7 +27,7 @@ env:
   DIY_P2_SH: diy-part2.sh
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
-  FILE_NAME: x86
+  FILE_NAME: acrh17
   TZ: Asia/Shanghai
 
 jobs:
